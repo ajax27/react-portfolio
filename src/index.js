@@ -21,7 +21,6 @@ ReactDOM.render(
       <Route path="/music-maker" render={() => <Header><MusicMaker /></Header>} />
       <Route path="/odds-or-evens" render={() => <Header><OddsOrEvens /></Header>} />
       <Route path="/reaction" render={() => <Header><Reaction /></Header>} />
-      <Route path="/work" render={() => <Header><Work /></Header>} />
     </Switch>
   </Router>,
   document.getElementById('root')

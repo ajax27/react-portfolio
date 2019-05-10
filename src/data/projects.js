@@ -29,7 +29,7 @@ const PROJECTS = [
     id: 4,
     title: 'Hacker News App',
     description: 'News App built with React',
-    link: 'https://fathomless-hamlet-84503.herokuapp.com',
+    link: 'https://ajax27-news.herokuapp.com',
     image: project4
   }
 ];
