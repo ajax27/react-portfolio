@@ -5,7 +5,7 @@
   "dependencies": {
     "@babel/plugin-proposal-class-properties": "^7.2.3",
     "aws-sdk": "^2.400.0",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "focus-trap-react": "^5.0.1",
     "history": "^4.7.2",
     "live-server": "^1.2.1",
